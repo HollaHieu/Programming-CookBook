@@ -3,6 +3,10 @@ C RoadMap
 
 *What you need to learn in order become a C programmer/developer.*
 
+###Hieu
+Data structure and algorithms reference:
+Book: Mastering algorithms with C - Kyle Loudon
+
 ### See Also
 
 - [C - Keywords & Terms (Programming-CookBook)](./keywords_and_terms.md)
